@@ -1,0 +1,30 @@
+name: Linux Log Analyzer tests
+
+on:
+  push:
+    paths:
+      - 'projects/linux-log-analyzer/**'
+      - '.github/workflows/linux-log-analyzer.yml'
+  pull_request:
+    paths:
+      - 'projects/linux-log-analyzer/**'
+      - '.github/workflows/linux-log-analyzer.yml'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ['3.10', '3.12', '3.13']
+    defaults:
+      run:
+        working-directory: projects/linux-log-analyzer
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Run unit tests
+        run: python -m unittest discover -s tests -v
+      - name: Compile code
+        run: python -m compileall -q log_analyzer

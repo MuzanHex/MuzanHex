@@ -40,17 +40,24 @@ I'm **Mohammad Shihab**, a CSE student interested in **software engineering**, *
 
 **Currently exploring:** Machine Learning · Docker · Rust · Cloud Computing · DevOps
 
-## 🚀 Project Roadmap
+## 🌟 Featured Project
 
-I'm building a portfolio of **small, complete, well-documented projects**. These are learning goals, **not published projects yet**.
+### 🐧 [Linux Log Analyzer](projects/linux-log-analyzer/README.md)
+
+A tested **Python command-line tool** for analyzing structured application logs and traditional Linux syslog files. It supports severity, service, keyword and date filters, plus JSON reports and automated unit tests.
+
+**What it demonstrates:** Python · Linux · Regular Expressions · CLI Design · Testing · DevOps Foundations
+
+[📂 Explore the code](projects/linux-log-analyzer/log_analyzer) · [📖 Documentation](projects/linux-log-analyzer/README.md) · [🧪 Tests](projects/linux-log-analyzer/tests)
+
+> The project currently lives inside this profile repository. Its directory contains everything needed to move it into a standalone repository.
+
+## 🗺️ Upcoming Projects
 
 | Focus area | Planned project | What it will demonstrate |
 | --- | --- | --- |
-| 🐧 Linux & automation | Command-line data and log analysis toolkit | Shell commands, scripting, reproducible workflows |
-| 🤖 Machine learning | End-to-end ML learning project | Data preparation, training, evaluation, clear explanations |
-| ☁️ DevOps | Containerized application with a simple CI workflow | Docker, version control, automated checks |
-
-As projects are completed, I'll replace this roadmap with links to their repositories, setup instructions, and demos where available.
+| 🤖 Machine Learning | End-to-end ML learning project | Data preparation, training, evaluation and documentation |
+| ☁️ DevOps | Containerized application with CI | Docker, version control and automated checks |
 
 ## 📈 My GitHub Journey
 
