@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**MuzanHex/MuzanHex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mohammad Shihab 👋
 
-Here are some ideas to get you started:
+### CSE Student | Aspiring Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about software engineering,
+AI, machine learning, and open-source development.
+
+## 🚀 About Me
+- 🎓 Computer Science & Engineering Student
+- 💻 Learning Python and Software Development
+- 🤖 Exploring AI & Machine Learning
+- ☁️ Interested in Cloud Computing and DevOps
+- 🐧 Practicing Linux and Git
+
+## 🛠️ Tech Stack
+- Languages: Python, C, C++
+- Tools: Git, GitHub, Linux, VS Code
+- Exploring: Docker, Rust, Machine Learning
+
+## 📂 Featured Projects
+Coming soon — currently building practical projects.
+
+## 📫 Connect With Me
+- GitHub: https://github.com/MuzanHex
