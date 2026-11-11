@@ -1,25 +1,77 @@
+<div align="center">
 
 # Hi, I'm Mohammad Shihab 👋
 
-### CSE Student | Aspiring Software Engineer
+### Computer Science & Engineering Student | Aspiring Software Engineer
 
-I'm passionate about software engineering,
-AI, machine learning, and open-source development.
+**Learning by building — from software fundamentals to AI, Linux, and cloud technologies.**
 
-## 🚀 About Me
-- 🎓 Computer Science & Engineering Student
-- 💻 Learning Python and Software Development
-- 🤖 Exploring AI & Machine Learning
-- ☁️ Interested in Cloud Computing and DevOps
-- 🐧 Practicing Linux and Git
+[![GitHub](https://img.shields.io/badge/GitHub-MuzanHex-181717?style=for-the-badge&logo=github)](https://github.com/MuzanHex)
+[![Repositories](https://img.shields.io/badge/Explore-My_Repositories-0969DA?style=for-the-badge&logo=github)](https://github.com/MuzanHex?tab=repositories)
 
-## 🛠️ Tech Stack
-- Languages: Python, C, C++
-- Tools: Git, GitHub, Linux, VS Code
-- Exploring: Docker, Rust, Machine Learning
+</div>
 
-## 📂 Featured Projects
-Coming soon — currently building practical projects.
+---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/MuzanHex
+## 👨‍💻 About Me
+
+I'm **Mohammad Shihab**, a CSE student interested in **software engineering**, **artificial intelligence**, **machine learning**, and **cloud/DevOps engineering**.
+
+- 🧠 Strengthening my programming and problem-solving fundamentals.
+- 🐧 Practicing **Linux**, **Git**, and command-line workflows.
+- 🤖 Exploring **AI and machine learning** through coursework and hands-on learning.
+- ☁️ Learning how development, containers, and cloud infrastructure fit together.
+- 🌍 Working toward opportunities to collaborate on meaningful projects, including remote roles.
+
+## 🛠️ Technologies & Tools
+
+**Programming languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Developer tools & environment**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+**Currently exploring:** Machine Learning · Docker · Rust · Cloud Computing · DevOps
+
+## 🚀 Project Roadmap
+
+I'm building a portfolio of **small, complete, well-documented projects**. These are learning goals, **not published projects yet**.
+
+| Focus area | Planned project | What it will demonstrate |
+| --- | --- | --- |
+| 🐧 Linux & automation | Command-line data and log analysis toolkit | Shell commands, scripting, reproducible workflows |
+| 🤖 Machine learning | End-to-end ML learning project | Data preparation, training, evaluation, clear explanations |
+| ☁️ DevOps | Containerized application with a simple CI workflow | Docker, version control, automated checks |
+
+As projects are completed, I'll replace this roadmap with links to their repositories, setup instructions, and demos where available.
+
+## 📈 My GitHub Journey
+
+I'm focused on **useful contributions**, not artificial commit counts. My goal is to make each repository easy to understand and reproduce.
+
+For every project, I aim to include:
+- A clear description of the problem and solution.
+- Installation and usage instructions.
+- Readable code and meaningful commits.
+- Examples, tests, or results where applicable.
+
+**[Explore my repositories →](https://github.com/MuzanHex?tab=repositories)**
+
+## 🤝 Let's Connect
+
+I'm interested in learning with other developers, contributing to open source, and exploring future remote software opportunities.
+
+**GitHub:** [@MuzanHex](https://github.com/MuzanHex)
+
+---
+
+<div align="center">
+  <sub>Building skills one real project at a time.</sub>
+</div>
