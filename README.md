@@ -42,15 +42,15 @@ I'm **Mohammad Shihab**, a CSE student interested in **software engineering**, *
 
 ## 🌟 Featured Project
 
-### 🐧 [Linux Log Analyzer](projects/linux-log-analyzer/README.md)
+### 🐧 [Linux Log Analyzer](https://github.com/MuzanHex/linux-log-analyzer)
 
 A tested **Python command-line tool** for analyzing structured application logs and traditional Linux syslog files. It supports severity, service, keyword and date filters, plus JSON reports and automated unit tests.
 
 **What it demonstrates:** Python · Linux · Regular Expressions · CLI Design · Testing · DevOps Foundations
 
-[📂 Explore the code](projects/linux-log-analyzer/log_analyzer) · [📖 Documentation](projects/linux-log-analyzer/README.md) · [🧪 Tests](projects/linux-log-analyzer/tests)
+[📂 Explore the code](https://github.com/MuzanHex/linux-log-analyzer/tree/main/log_analyzer) · [📖 Documentation](https://github.com/MuzanHex/linux-log-analyzer#readme) · [🧪 Tests](https://github.com/MuzanHex/linux-log-analyzer/tree/main/tests) · [⚙️ GitHub Actions](https://github.com/MuzanHex/linux-log-analyzer/actions)
 
-> The project currently lives inside this profile repository. Its directory contains everything needed to move it into a standalone repository.
+> Published as a standalone public repository with automated testing.
 
 ## 🗺️ Upcoming Projects
 
